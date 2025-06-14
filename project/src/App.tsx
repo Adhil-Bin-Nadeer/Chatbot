@@ -42,7 +42,7 @@ function App() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <button className="group bg-gradient-to-r from-blue-600 to-purple-600 text-white px-8 py-4 rounded-full text-lg font-semibold hover:from-blue-700 hover:to-purple-700 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl flex items-center space-x-2">
-                <span>Start Your Journey</span>
+                <a href = "https://mental-health-aii.streamlit.app/"></a><span>Start Your Journey</span></a>
                 <ArrowRight className="h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </button>
               <p className="text-sm text-gray-500 flex items-center space-x-1">
